@@ -108,7 +108,7 @@
         "prestashop/ps_themecusto": "^1",
         "prestashop/ps_viewedproduct": "^2",
         "prestashop/ps_wirepayment": "^3.0",
-        "prestashop/psgdpr": "^1.4",
+        "prestashop/psgdpr": "2.0.1",
         "prestashop/statsbestcategories": "^2",
         "prestashop/statsbestcustomers": "^2",
         "prestashop/statsbestmanufacturers": "^2",
