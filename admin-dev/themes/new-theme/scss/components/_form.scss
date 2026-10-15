@@ -82,6 +82,10 @@
   }
 }
 
+.form-group h3 ~ .subtitle {
+  color: var(--#{$cdk}primary-600);
+}
+
 .invalid-feedback-container {
   padding-top: 8px;
 }
@@ -265,4 +269,8 @@
 
 .pstaggerClosingCross  {
   cursor: pointer;
+}
+
+.currency-money .input-group-append select {
+  padding-right: var(--#{$cdk}size-32);
 }

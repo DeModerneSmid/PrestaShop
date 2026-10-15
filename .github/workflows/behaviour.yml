@@ -11,6 +11,7 @@ concurrency:
 jobs:
   # Define which PHP versions need to be used
   workflow_matrix_generator:
+    name: PHP matrix
     uses: ./.github/workflows/workflow-matrix-generator.yml
     with:
       matrix_type: PHP
@@ -84,7 +85,7 @@ jobs:
           SYMFONY_DEPRECATIONS_HELPER: disabled
 
       - name: Upload logs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         if: failure()
         with:
           name: behaviour-${{ matrix.php }}

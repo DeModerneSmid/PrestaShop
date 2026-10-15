@@ -83,6 +83,7 @@ GitHub contributors:
 - Antonio Intagliata
 - antoniofr
 - AntonLejon
+- aomaxime
 - Arman Hosseini
 - Armando Salvador Pérez
 - Arnaud Dohogne
@@ -98,7 +99,6 @@ GitHub contributors:
 - Atef Ben Ali
 - Aude
 - Audrius
-- AureRita
 - Aurone
 - Aurélien Pelletier
 - Aurélien Rita
@@ -128,6 +128,7 @@ GitHub contributors:
 - Bertrand Merlier
 - bibips
 - BigZ
+- Blivet Thibault
 - BluTiGeS
 - BMS-fenaille
 - Boki
@@ -140,6 +141,7 @@ GitHub contributors:
 - bumbu
 - Burhan
 - Caleydon Media
+- Camille
 - Camille Lafitte
 - Camille V
 - Captain FLAM
@@ -496,6 +498,7 @@ GitHub contributors:
 - Justinas Urbanavicius
 - Jáchym Toušek
 - Jérémie Broutier
+- Jérémie LEGRAND
 - Jérémie Tabet
 - Jérôme H
 - Jérôme Nadaud
@@ -523,6 +526,7 @@ GitHub contributors:
 - ks129
 - ksaandev
 - Kyary
+- Kévin
 - Kévin Gleizes
 - Ladel
 - Lathanao
@@ -607,6 +611,7 @@ GitHub contributors:
 - Massimo Caroccia
 - Mateus Shirlaw
 - Mateusz Furga
+- Mateusz Gieleciński
 - Mateusz Nastalski
 - Mathias Reker
 - Mathieu Ferment
@@ -761,6 +766,7 @@ GitHub contributors:
 - Pierre
 - Pierre Avizou
 - Pierre Joube
+- Pierre Jouglet
 - Pierre Rambaud
 - Pierre-Yves Christmann
 - Pierrick
@@ -914,6 +920,7 @@ GitHub contributors:
 - SLRkingRing
 - smartdatasoft
 - snamor
+- Soledis
 - soufyan
 - soware
 - spetr
@@ -955,6 +962,7 @@ GitHub contributors:
 - Ted Sanders
 - Teemu Mäntynen
 - Tess
+- ThbPS
 - The Gitter Badger
 - themella
 - theoalloin
@@ -962,6 +970,7 @@ GitHub contributors:
 - therampagerado
 - Thibaud Chauviere
 - Thibault Blivet
+- Thibault Fayolle
 - Thierry Marianne
 - Thijs Simonis
 - Thoma
@@ -976,6 +985,7 @@ GitHub contributors:
 - Thomas Leguillant
 - Thomas Leone
 - Thomas Leviandier
+- Thomas N
 - Thomas Nabord
 - Thomas Nares
 - Thomas Roux
@@ -1053,6 +1063,7 @@ GitHub contributors:
 - Yani Makouf
 - yanngarras
 - Yannick A
+- Yannick A.
 - Yannick Armand
 - Yneet
 - yo7hli
